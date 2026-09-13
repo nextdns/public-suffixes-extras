@@ -22,6 +22,7 @@ ipfs.infura-ipfs.io
 kinsta.cloud
 liveblog365.com
 lovestoblog.com
+mainnet-1.datasprite-cdn.com # Irys transaction sandbox origins use <sandbox-id>.mainnet-1.datasprite-cdn.com; preserve individual transaction hosts (https://docs.irys.xyz/onchain-storage/cdn-domains).
 mncdn.com
 my03.com
 myportfolio.com
